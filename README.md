@@ -1,3 +1,3 @@
 # Mdhlalose
 Stuff
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/2332720/Mdhlalose.git/LU)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2F2332720%2FMdhlalose.git/LU)
